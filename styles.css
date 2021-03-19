@@ -1,0 +1,29 @@
+#page1{background-color: white;text-align: center;}
+.nav-icon{color: #228B22;}
+
+
+.navbar-brand{font-family: 'Ubuntu', sans-serif;font-weight: bold;font-size: 1.5rem;}
+.navbar{padding: 0 6rem 0 6rem;}
+.nav-item{padding: 0 1rem;}
+.nav-link{font-family: 'Montserrat-light';}
+
+
+.logo{width: 200px;height: 100px;}
+.line{margin: 0 auto;}
+.bottom-nav{font-weight: bold;}
+
+.carouselimages{width: 1400px;height: 450px;}
+.feature-image{margin: auto;text-align: center;}
+
+#page3{padding: 7% 15%;}
+.fa-green{color: green;text-align: center;padding: 18px;}
+.feature-box{border-color: green;border-style: solid;border-width: 0.50rem;margin: auto;
+}
+.sub-head{text-align: center;margin: auto;}
+.hussy1{margin-right: 310px;margin-top:40px;width:100%;}
+.hussy2{margin-top: 40px;margin-left:20px;}
+.hussy3{margin-top: 40px;}
+.hussy4{margin-top: 40px;margin-left: 30px;}
+.pagal{font-size: 2.20rem;color: green;}
+.whyshimore{text-align: center;font-weight: 600;font-size: 5rem;padding-bottom: 150px;color: #00BFFF;}
+.design{color: green;}
